@@ -7,7 +7,7 @@ const config = {
     mode: 'development',
     target: 'web',
     entry: [
-        './src/app/main.ts',
+        './src/app/line.ts',
         // './src/styles/style.scss',
     ],
     devServer: {
